@@ -1,7 +1,6 @@
 --[[
-Made by Rouxhaver
+Made by ddoser777
 
-showcase: https://www.youtube.com/watch?v=KpjGbXuMbk8
 R and T to rotate,
 drag floor to change hip height,
 select body part on the right.
@@ -130,7 +129,7 @@ credote = Instance.new("TextLabel",SG)
 credote.AnchorPoint = Vector2.new(0,1)
 credote.Position = UDim2.new(0,0,1)
 credote.Size = UDim2.new(.3,0,.075)
-credote.Text = "Made by Rouxhaver"
+credote.Text = "Made by ddoser777"
 credote.TextScaled = true
 credote.BackgroundTransparency = 1
 credote.TextColor3 = Color3.new(0,0,0)
